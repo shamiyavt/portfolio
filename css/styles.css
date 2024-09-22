@@ -1,5 +1,3 @@
-
-
 body{
 font-family: sans-serif;
 margin: 8px 0 8px 0;
@@ -1792,6 +1790,26 @@ height: 320px;
 .learn-more{
   margin-top: 70px;
 }
+.fourth-box{
+  display: flex;
+  width: 320px;
+  padding: 25px 25px 25px 40px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: 320px;
+}
+.craft{
+  margin: 0;
+  width:301px;
+}
+.delve{
+  margin: 0;
+  width: 300px;
+}
+.learn-moree{
+  margin-top: 46px;
+}
 /**********************services-section********************/
 
 
@@ -2208,3 +2226,4 @@ margin: 0;
 
 
 }
+
